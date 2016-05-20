@@ -8,7 +8,6 @@ In your project folder:
 
 ```
 npm install --save-dev @confuser/eslint-config
-npm install --save-dev eslint-config-standard
 npm install --save-dev eslint-plugin-standard
 ```
 
@@ -19,5 +18,3 @@ Then create a `.eslintrc` in the project root.
   "extends": "@confuser/eslint-config"
 }
 ```
-
-Any override to the standards should go in this file.

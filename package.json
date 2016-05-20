@@ -8,14 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:confuser/eslint-config.git"
+    "url": "git+https://github.com/confuser/eslint-config.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/confuser/eslint-config.git"
   },
   "keywords": [
     "eslint",
